@@ -77,9 +77,6 @@ namespace CalculadoraIMC
             
             if (numeros != null)
 
-            if (txtAltura.Tag.Equals(true))
-            {
-                txtAltura.Text += numeros.Text;
 
             }
             else
